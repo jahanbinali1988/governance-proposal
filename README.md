@@ -72,6 +72,9 @@
 - `WHY_THIS_MODEL.md`
 - `POWER_STRUCTURE.md`
 
+## مهستان
+- `MEHESTAN.md`
+
 ## شفافیت و مبارزه با فساد
 - `TRANSPARENCY_AND_ANTI_CORRUPTION.md`
 
